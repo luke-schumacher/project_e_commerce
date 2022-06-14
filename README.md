@@ -143,7 +143,7 @@ As your React app grows, it is common to add a components/ directory to organize
 3. Starting the React App Development Server
 As was stated in the success message when you ran create-react-app, you just need to run ```npm start``` in your app directory to begin serving the development server. It should auto-open a tab in your browser that points to http://localhost:3000/ (if not, manually visit that address). You will find yourself looking at a page resembling the following image:
 
-<img align="center" src="./img/default_react.png" width="70%" />
+<img align="center" src="./img/react_default.png" width="70%" />
 
 As stated, any changes to the source code will live-update here. Let’s see that in action.
 
